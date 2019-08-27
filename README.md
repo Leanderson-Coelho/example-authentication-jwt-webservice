@@ -3,11 +3,11 @@
 https://blog.totalcross.com/pt/seguranca-com-jwt-e-java/
 
 ## API 
-(Leanderson Coelho)[leanderson.coelhoif@gmail.com]
+[Leanderson Coelho](leanderson.coelhoif@gmail.com)
 
 ## How to use
-create a new user on database for use login.
-Use authentication token in request header after run login, for new requests.  
+* Create a new user on database for use login.
+* Use authentication token in request header after run login, for new requests.  
 
 ### Tests
 ##### POST localhost:8080/api/clients/ -> create user ( necessary login )
